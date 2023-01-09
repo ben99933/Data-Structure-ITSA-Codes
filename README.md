@@ -63,3 +63,8 @@ p6935 https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6935
 p6937 https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6937
 
 p6939 https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6939
+
+p21826 https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=21826
+
+
+p6945 https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6945
